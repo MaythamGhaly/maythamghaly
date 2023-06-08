@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Maytham Ghaly</h1>
 <h3 align="center">Civil and Web Engineer 👷👨🏻‍💻</h3>
 <h3 align="center">Turn on the music and let's code</h3>
-[![committers.top badge](https://user-badge.committers.top/lebanon/USERNAME.svg)](https://user-badge.committers.top/lebanon/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/lebanon/maythamghaly.svg)](https://user-badge.committers.top/lebanon/maythamghaly)
 <img align="right" alt="coding" width="150" src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47unen9cx8a6fqir7yk18yn9u4im512kuajl35kvxj&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maythamghaly&label=Profile%20views&color=0e75b6&style=flat" alt="maythamghaly" /> </p>
